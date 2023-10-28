@@ -4,31 +4,31 @@
     "urls": [
   
         {
-            "url": "https://raw.githubusercontent.com/roxdman/rox/main/tvbox.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/roxdman/rox/main/tvbox.json",
             "name": "tvbox"
         },
         {
-            "url": "https://raw.githubusercontent.com/roxdman/rox/main/meow.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/roxdman/rox/main/meow.json",
             "name": "meow"
         },
         {
-            "url": "https://raw.githubusercontent.com/roxdman/rox/main/2ha.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/roxdman/rox/main/2ha.json",
             "name": "2ha"
         },
         {
-            "url": "https://raw.githubusercontent.com/roxdman/rox/main/catbox.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/roxdman/rox/main/catbox.json",
             "name": "catbox"
         },
         {
-            "url": "https://raw.githubusercontent.com/roxdman/rox/main/ymxh.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/roxdman/rox/main/ymxh.json",
             "name": "影迷xh"
         },
         {
-            "url": "https://raw.githubusercontent.com/roxdman/rox/main/ym4k.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/roxdman/rox/main/ym4k.json",
             "name": "影迷4k"
         },
         {
-            "url": "https://raw.githubusercontent.com/roxdman/rox/main/巧计.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/roxdman/rox/main/巧计.json",
             "name": "巧计"
         },        
         {
