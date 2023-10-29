@@ -1,0 +1,50 @@
+
+
+{
+    "urls": [
+  
+        {
+            "url": "https://raw.gitmirror.com/roxdman/rox/main/tvbox.json",
+            "name": "tvbox"
+        },
+        {
+            "url": "https://raw.gitmirror.com/roxdman/rox/main/meow.json",
+            "name": "meow"
+        },
+        {
+            "url": "https://raw.gitmirror.com/roxdman/rox/main/2ha.json",
+            "name": "2ha"
+        },
+        {
+            "url": "https://raw.gitmirror.com/roxdman/rox/main/catbox.json",
+            "name": "catbox"
+        },
+        {
+            "url": "https://raw.gitmirror.com/roxdman/rox/main/ymxh.json",
+            "name": "影迷xh"
+        },
+        {
+            "url": "https://raw.gitmirror.com/roxdman/rox/main/ym4k.json",
+            "name": "影迷4k"
+        },
+        {
+            "url": "https://raw.gitmirror.com/roxdman/rox/main/巧计.json",
+            "name": "巧计"
+        },        
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "肥猫"
+        },        
+        {
+            "url": "https://369936.xyz/web119",
+            "name": "春风影视"
+        }
+        
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}
